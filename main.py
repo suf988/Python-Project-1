@@ -1,6 +1,6 @@
 # +++++ PROJECT 1: ROCK, PAPER, SCISSOR GAME   +++++
 
-# We all have played rock, paper, scissor game in our childhood.
+# We all have played rock, paper, scissor game in our .
 # If you haven’t, google the rules of this game and write a python program capable of playing this game with the user.
 
 import random
